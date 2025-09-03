@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @harshaa765
-- 👀 I’m interested in Coding efficient algorithms for computational fracture mechanics 
-- 🌱 I’m currently learning Phase-field modeling and deep learning 
-- 💞️ I’m looking to collaborate on Computational fracture mechanics + Deep Neural Network 
-- 📫 How to reach me Email: harshsharma52@gmail.com
+# 👋 Hi, I’m Harshdeep  
 
-<!---
-harshaa765/harshaa765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 **PhD Researcher in Computational Mechanics** with expertise in fracture mechanics, nonlinear FEM, and numerical methods.  
+🔹 Passionate about **developing efficient solvers** and exploring the intersection of **AI, HPC, and multiphysics simulation**.  
+🔹 Experienced in **C++, Fortran, and Python** for scientific computing and algorithm development.  
+
+---
+
+## 🔭 Current Work
+- Developing methods in **computational fracture mechanics** (XFEM, phase-field approaches).  
+- Exploring **deep learning applications** for accelerating mechanics simulations.  
+
+## 🌱 Learning & Growth
+- **High-Performance Computing (HPC)** & parallel programming (MPI/OpenMP).  
+- **AI-driven mechanics** and quantum computing fundamentals.  
+
+## 🤝 Open to Collaboration
+- **Solver development** for nonlinear and multiphysics problems.  
+- **Hybrid approaches** combining FEM with AI/ML models.  
+- **Open-source projects** in computational mechanics.  
+
+## 📫 Reach Me
+- **Email:** harshsharma52@gmail.com  
+- **LinkedIn:** [linkedin.com/in/harshdeep-profile](#) *(add your link here)*  
+
+---
+
+⚡ *“Building bridges between mechanics, computation, and intelligent algorithms.”*  
+fjkkkkkkkkkk
