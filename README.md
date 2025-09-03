@@ -1,4 +1,4 @@
-j# 👋 Hi, I’m Harshdeep  
+# 👋 Hi, I’m Harshdeep  
 
 🔹 **PhD Researcher in Computational Mechanics** with expertise in fracture mechanics, nonlinear FEM, and numerical methods.  
 🔹 Passionate about **developing efficient solvers** and exploring the intersection of **AI, HPC, and multiphysics simulation**.  
