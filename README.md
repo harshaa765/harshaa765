@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Harshdeep  
+j# 👋 Hi, I’m Harshdeep  
 
 🔹 **PhD Researcher in Computational Mechanics** with expertise in fracture mechanics, nonlinear FEM, and numerical methods.  
 🔹 Passionate about **developing efficient solvers** and exploring the intersection of **AI, HPC, and multiphysics simulation**.  
@@ -21,9 +21,8 @@
 
 ## 📫 Reach Me
 - **Email:** harshsharma52@gmail.com  
-- **LinkedIn:** [linkedin.com/in/harshdeep-profile](#) *(add your link here)*  
+- **LinkedIn:** https://www.linkedin.com/in/harshdeep-s-30616b1b2/   
 
 ---
 
 ⚡ *“Building bridges between mechanics, computation, and intelligent algorithms.”*  
-fjkkkkkkkkkk
