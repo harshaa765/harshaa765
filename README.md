@@ -7,7 +7,7 @@
 ---
 
 ## 🔭 Current Work
-- Developing methods in **computational fracture mechanics** (XFEM, phase-field approaches).  
+- Developing methods in **computational fracture mechanics** (CZM, phase-field approaches).  
 - Exploring **deep learning applications** for accelerating mechanics simulations.  
 
 ## 🌱 Learning & Growth
