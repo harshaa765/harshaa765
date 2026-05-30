@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I’m Harshdeep Sharma</h1>
   <h3>Computational Mechanics Engineer | FEM Fracture & HPC | Physics-ML</h3>
-  <p><i>Building bridges between mechanics, high-performance computing, and intelligent AI frameworks.</i></p>
+  <p><i>Building bridges between physics, high-performance computing, and intelligent AI frameworks.</i></p>
 
   <p align="center">
     <a href="mailto:harshsharma52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -22,7 +22,7 @@
 - 📝 **Research:** Published in leading journals like *Composites Part A*, *Engineering with Computers*, and *International Journal of Fatigue*.
 
 ## 🤝 Open Source & Collaboration Readiness
-- 🚀 Actively seeking to contribute to **open-source projects** in computational mechanics, hybrid FEM-ML solvers, and AI engineering.
+- 🚀 Actively seeking to contribute to **open-source projects** in hybrid FEM-ML solvers, LLMs and AI engineering.
 - 🔧 Experienced in open-sourcing scalable FEM codes, matrix-splitting strategies, and physics-based CPFEM implementations with community adoption.
 
 ---
@@ -47,10 +47,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaa765&show_icons=true&theme=radium&hide_border=true&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa765&theme=radium&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats-eta-five-q4q09btsn1.vercel.app/api?username=harshaa765&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa765&theme=radium&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=radium&hide_border=true&v=1" width="50%" />
+  <img src="https://github-readme-stats-eta-five-q4q09btsn1.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=radium&hide_border=true" width="50%" />
 </div>
