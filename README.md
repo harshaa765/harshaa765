@@ -47,10 +47,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaa765&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa765&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshaa765&show_icons=true&theme=radium&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa765&theme=radium&hide_border=true&v=1" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=radium&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=radium&hide_border=true&v=1" width="50%" />
 </div>
