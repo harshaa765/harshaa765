@@ -52,5 +52,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaa765&layout=compact&theme=radium&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=radium&hide_border=true" width="50%" />
 </div>
