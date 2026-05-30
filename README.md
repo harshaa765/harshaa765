@@ -45,12 +45,10 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-eta-five-q4q09btsn1.vercel.app/api?username=harshaa765&show_icons=true&theme=radium&hide_border=true&cache_bust=20260530" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa765&theme=radium&hide_border=true&cache_bust=20260530" width="48%" />
+  <img src="https://github-readme-stats-eta-five-q4q09btsn1.vercel.app/api?username=harshaa765&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=harshaa765&theme=radium&hide_border=true" width="48%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats-eta-five-q4q09btsn1.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=radium&hide_border=true&cache_bust=20260530" width="50%" />
+  <img src="https://github-readme-stats-eta-five-q4q09btsn1.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=radium&hide_border=true" width="50%" />
 </div>
