@@ -58,18 +58,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaa765&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=harshaa765&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/profile-details.svg" width="99%" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa765&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/repos-per-language.svg" width="32%" alt="Repos Per Language"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/most-commit-language.svg" width="32%" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/stats.svg" width="32%" alt="Stats"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshaa765&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=harshaa765&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
 </div>
 
 ---
