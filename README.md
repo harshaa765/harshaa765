@@ -58,13 +58,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/profile-details.svg" width="99%" alt="Profile Details"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="99%" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/repos-per-language.svg" width="32%" alt="Repos Per Language"/>
-  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/most-commit-language.svg" width="32%" alt="Most Commit Language"/>
-  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/stats.svg" width="32%" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Repos Per Language"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/harshaa765/harshaa765/main/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="Stats"/>
 </div>
 
 <div align="center">
