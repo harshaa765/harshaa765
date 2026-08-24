@@ -26,7 +26,7 @@
 
 ## 🌱 Academic & Algorithmic Background
 
-- 🎓 **Ph.D. in Computational Mechanics** — IIT Patna *(Thesis Submitted)*
+- 🎓 **Ph.D. in Computational Mechanics** — IIT Patna 
 - 💻 **Competitive Programming** — 300+ Codeforces problems · Specialist (rating: 1422) · Graph algorithms, data structures & optimization
 - 📝 **Publications** — *Composites Part A* · *Engineering with Computers* · *International Journal of Fatigue*
 
