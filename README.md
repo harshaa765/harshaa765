@@ -18,7 +18,7 @@
 
 | Area | Details |
 |------|---------|
-| 🏢 **Role** | Senior Research Scientist @ ZenteiQ Aitech Innovations (Airex Lab, IISc Bangalore) |
+| 🏢 **Role** | Senior Research Scientist|
 | 🧠 **SciML & AI** | Neural Operators (GINO, FNO, Transolver, WNO) in JAX · Multi-agent & RAG production pipelines |
 | ⚙️ **Computational Mechanics** | Phase-field fracture solvers · Abaqus UEL/UMAT for high-cycle fatigue & mixed-mode fracture |
 
